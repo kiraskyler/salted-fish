@@ -29,10 +29,19 @@
       auto2top: true,             // 切换页面自动到顶部
       routerMode: 'history',      // 浏览器不会出现#
 
-      search: {                   // 全局搜索
-        placeholder: '请输入要搜索的关键字',
-        noData: '没有结果',
-      },
+      search: {
+			noData: {
+          '/de-de/': 'Keine Ergebnisse!',
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/de-de/': 'Suche',
+          '/zh-cn/': '搜索',
+          '/': 'Search'
+        }
+	  	},
 
       pagination: {               // 显示上一个文档和下一个文档
         previousText: '上一章节',
