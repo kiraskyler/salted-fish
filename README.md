@@ -16,6 +16,8 @@
 
 [docsify](https://docsify.js.org/#/zh-cn/)
 
+[docsify配置参考 gitee w3schools / docsify-demo](https://gitee.com/w3schools/docsify-demo/tree/master)
+
 # 投稿、勘误、交流
 
 - kiraskyler@163.com
