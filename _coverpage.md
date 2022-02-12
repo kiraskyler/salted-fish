@@ -2,13 +2,11 @@
 
 ![logo](icon.svg)
 
-# docsify <small>4.12.1</small>
+# 在线文档速查
 
 > A magical documentation site generator.
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 投稿邮箱 kiraskyler@163.com
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#headline)
+[Get Started](#首页)
