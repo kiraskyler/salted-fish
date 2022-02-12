@@ -15,3 +15,7 @@
 # 技术支持
 
 [docsify](https://docsify.js.org/#/zh-cn/)
+
+# 投稿、勘误、交流
+
+- kiraskyler@163.com
